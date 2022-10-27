@@ -1,5 +1,6 @@
 ## Welcome to my profile!
-- 🌱 I’m currently learning Python
+- 📚 Currently studying Computer Science at EPFL
+- 🌱 I’m currently learning java
 - 💞️ I love working on personal projects (not only coding projets)
 
 <!---
