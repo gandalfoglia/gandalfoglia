@@ -1,5 +1,5 @@
 ## Welcome to my profile!
-- 📚 Currently studying Computer Science at EPFL
+- 📚 Currently studying at HEC Lausanne
 - 💞️ I love working on personal projects (not only coding projets)
 
 <!---
