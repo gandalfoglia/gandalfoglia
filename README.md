@@ -43,9 +43,3 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-## What I Do ⚡
-
-🔥 **Full Stack Development**: From crafting beautiful frontends to designing robust backend systems, I love working across the entire stack to create complete solutions.
-
-📱 **Mobile Development**: Experience in cross-platform (Capacitor) mobile development, creating seamless mobile experiences.
