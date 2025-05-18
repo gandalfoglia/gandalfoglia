@@ -1,7 +1,3 @@
-## About Me
-
-- Currently studying at HEC Lausanne
-
 ## Tech Stack
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
