@@ -1,12 +1,8 @@
-# Welcome to my GitHub profile! 👋
-
 ## About Me
 
 - Currently studying at HEC Lausanne
-- Exploring new technologies and ideas, always learning something new
-- Focused on problem-solving and creativity in both tech and non-tech fields
 
-## Tech Stack 💻
+## Tech Stack
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
